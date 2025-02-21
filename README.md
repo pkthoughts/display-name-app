@@ -1,5 +1,5 @@
 
-# Name Display App
+# Display Name App
 
 ---
 
